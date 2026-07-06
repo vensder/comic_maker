@@ -1,7 +1,7 @@
 Module {
 	name: 'comic_maker'
-	description: 'Comic Book Maker'
-	version: '0.0.1'
+	description: 'Interactive Comic Book Maker'
+	version: '0.1.0'
 	license: 'MIT'
 	dependencies: []
 }
